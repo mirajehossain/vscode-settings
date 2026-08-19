@@ -1,0 +1,26 @@
+builtin:
+  disabled:
+    - anysphere.cursor-agent-exec
+    - anysphere.cursor-agent-host
+    - anysphere.cursor-agent-worker
+    - anysphere.cursor-always-local
+    - anysphere.cursor-checkout
+    - anysphere.cursor-local-agent-runtime
+    - anysphere.cursor-resolver
+    - anysphere.cursor-retrieval
+    - anysphere.cursor-socket
+    - undefined.cursor-themes
+disabled: []
+enabled:
+  - id: anysphere.remote-ssh
+    uuid: 73a45d83-83c7-4b22-bebf-c9130b0ab3f3
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: GitHub.vscode-pull-request-github
+    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: waderyan.gitblame
+    uuid: 2335b326-c334-4e81-bc51-c408fcec6e7c
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
