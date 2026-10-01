@@ -1,5 +1,9 @@
 {
     "window.autoDetectColorScheme": true,
-    "workbench.preferredLightColorTheme": "Monokai",
-    "workbench.activityBar.orientation": "vertical"
+    "workbench.preferredLightColorTheme": "Default Dark+",
+    "workbench.activityBar.orientation": "vertical",
+    "workbench.agentsWindowButton.enabled": false,
+    "githubPullRequests.pushBranch": "always",
+    "cursor.composer.queueMessageDefaultBehavior": "steer",
+    "cursor.inlineDiff.enablePerformanceProtection": false
 }
