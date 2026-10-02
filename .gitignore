@@ -1,0 +1,2 @@
+# Cursor global UI/database state is machine-specific and must not be synced.
+profiles/main/data/ui-state.yml
